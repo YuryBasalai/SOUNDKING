@@ -42,7 +42,7 @@ body {
 .logo span {
 	position: absolute;
 	font-size: 13px;
-  	font-weight: medium;
+	font-weight: medium;
 	line-height: 0.8;
 }
 
@@ -276,7 +276,7 @@ a.buttom {
 .recommendation h2 {
 	color: #333;
 	font-size: 36px;
-	    margin-bottom: 30px;
+	margin-bottom: 30px;
 }
 
 
@@ -499,8 +499,8 @@ a.buttom {
 .avatar .name {
 	color: #333;
 	font-size: 18px;
-  	font-weight: 500;
-  	letter-spacing: -0.7px;
+	font-weight: 500;
+	letter-spacing: -0.7px;
 }
 
 .photo {
